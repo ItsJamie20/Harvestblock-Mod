@@ -33,5 +33,11 @@
   "block.harvestblock.rich_tier_5_soil": "Rich Tier 5 Soil",
   "block.harvestblock.rich_tier_6_soil": "Rich Tier 6 Soil",
   "block.harvestblock.dirt_table": "Dirt Crafting Table",
+  "block.harvestblock.creative_crux": "Creative Crux",
+  "block.harvestblock.crystaltine_crux": "Crystaltine Crux",
+  "block.harvestblock.dark_matter_crux": "Dark Matter Crux",
+  "block.harvestblock.red_matter_crux": "Red Matter Crux",
+  "block.harvestblock.gaia_crux": "Gaia Crux",
+  "block.harvestblock.ultimate_crux": "Ultimate Crux",
   "itemGroup.harvestblock": "Harvest Block"
 }

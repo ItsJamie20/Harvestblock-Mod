@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "harvestblock:blocks/dark_matter_crux",
+    "north": "harvestblock:blocks/dark_matter_crux",
+    "south": "harvestblock:blocks/dark_matter_crux",
+    "east": "harvestblock:blocks/dark_matter_crux",
+    "west": "harvestblock:blocks/dark_matter_crux",
+    "up": "harvestblock:blocks/dark_matter_crux",
+    "down": "harvestblock:blocks/dark_matter_crux"
+  }
+}

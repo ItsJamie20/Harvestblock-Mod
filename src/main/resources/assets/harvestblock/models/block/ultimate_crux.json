@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "harvestblock:blocks/ultimate_crux",
+    "north": "harvestblock:blocks/ultimate_crux",
+    "south":"harvestblock:blocks/ultimate_crux",
+    "east": "harvestblock:blocks/ultimate_crux",
+    "west": "harvestblock:blocks/ultimate_crux",
+    "up": "harvestblock:blocks/ultimate_crux",
+    "down": "harvestblock:blocks/ultimate_crux"
+  }
+}

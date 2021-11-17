@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "harvestblock:blocks/gaia_crux",
+    "north": "harvestblock:blocks/gaia_crux",
+    "south": "harvestblock:blocks/gaia_crux",
+    "east": "harvestblock:blocks/gaia_crux",
+    "west": "harvestblock:blocks/gaia_crux",
+    "up": "harvestblock:blocks/gaia_crux",
+    "down": "harvestblock:blocks/gaia_crux"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "harvestblock:blocks/crystaltine_crux",
+    "north": "harvestblock:blocks/crystaltine_crux",
+    "south": "harvestblock:blocks/crystaltine_crux",
+    "east": "harvestblock:blocks/crystaltine_crux",
+    "west": "harvestblock:blocks/crystaltine_crux",
+    "up": "harvestblock:blocks/crystaltine_crux",
+    "down": "harvestblock:blocks/crystaltine_crux"
+  }
+}
