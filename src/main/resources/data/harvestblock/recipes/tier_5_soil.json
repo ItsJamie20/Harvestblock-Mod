@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xsx",
+    "xxx"
+  ],
+  "key":
+  {
+    "s":
+    {
+      "item": "harvestblock:tier_4_soil"
+    },
+    "x":
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    }
+  },
+  "result":
+  {
+    "item": "harvestblock:tier_5_soil",
+    "count": 1
+  }
+}

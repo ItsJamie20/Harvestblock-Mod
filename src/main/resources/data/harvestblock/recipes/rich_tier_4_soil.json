@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xsx",
+    "xxx"
+  ],
+  "key":
+  {
+    "s":
+    {
+      "item": "harvestblock:improved_tier_4_soil"
+    },
+    "x":
+    {
+      "item": "harvestblock:fertiliser"
+    }
+  },
+  "result":
+  {
+    "item": "harvestblock:rich_tier_4_soil",
+    "count": 1
+  }
+}

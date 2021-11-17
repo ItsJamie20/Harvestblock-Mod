@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xsx",
+    "xxx"
+  ],
+  "key":
+  {
+    "s":
+    {
+      "item": "harvestblock:tier_1_soil"
+    },
+    "x":
+    {
+      "item": "mysticalagriculture:prudentium_essence"
+    }
+  },
+  "result":
+  {
+    "item": "harvestblock:tier_2_soil",
+    "count": 1
+  }
+}

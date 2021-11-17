@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xsx",
+    "xxx"
+  ],
+  "key":
+  {
+    "s":
+    {
+      "item": "harvestblock:tier_5_soil"
+    },
+    "x":
+    {
+      "item": "mysticalagradditions:insanium_essence"
+    }
+  },
+  "result":
+  {
+    "item": "harvestblock:tier_6_soil",
+    "count": 1
+  }
+}

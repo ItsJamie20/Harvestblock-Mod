@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "harvestblock:basic_tier_3_soil"
+        }
+      ]
+    }
+  ]
+}

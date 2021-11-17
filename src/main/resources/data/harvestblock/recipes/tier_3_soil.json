@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xsx",
+    "xxx"
+  ],
+  "key":
+  {
+    "s":
+    {
+      "item": "harvestblock:tier_2_soil"
+    },
+    "x":
+    {
+      "item": "mysticalagriculture:tertium_essence"
+    }
+  },
+  "result":
+  {
+    "item": "harvestblock:tier_3_soil",
+    "count": 1
+  }
+}

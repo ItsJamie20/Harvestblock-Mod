@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "harvestblock:blocks/dirt_table_front",
+    "north": "harvestblock:blocks/dirt_table_front",
+    "south": "harvestblock:blocks/dirt_table_side",
+    "east": "harvestblock:blocks/dirt_table_side",
+    "west": "harvestblock:blocks/dirt_table_front",
+    "up": "harvestblock:blocks/dirt_table_top",
+    "down": "minecraft:block/dirt"
+  }
+}
